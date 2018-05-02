@@ -2,6 +2,13 @@
 TwitterのProfile欄が毎日Nyanedされます。  
 Nyanedの起点は、あなたがTwitterを始めた日です。
 
+# Nyanedって何？
+
+Nyancatを再生することでNyanすることができます。  
+https://www.youtube.com/watch?v=QH2-TGUlwu4
+
+![https://www.youtube.com/watch?v=QH2-TGUlwu4](https://github.com/yakan10/NyanedTwitterProfile/blob/images/Nyan_cat_250px_frame.jpg)
+
 # How To Use
 
 ## 必要なパッケージのインストール
