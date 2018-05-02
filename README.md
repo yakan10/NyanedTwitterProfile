@@ -2,7 +2,7 @@
 TwitterのProfile欄が毎日Nyanedされます。  
 Nyanedの起点は、あなたがTwitterを始めた日です。
 
-# Setup
+# How To Use
 
 ## 必要なパッケージのインストール
 このスクリプトでは以下のパッケージを使っています。  
